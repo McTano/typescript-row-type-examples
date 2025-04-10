@@ -1,0 +1,22 @@
+{
+  "name": "typescript-row-type-examples",
+  "version": "0.0.0",
+  "description": "examples of how row types work (or don't) in typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McTano/typescript-row-type-examples.git"
+  },
+  "author": "Tristan MacKinlay",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/McTano/typescript-row-type-examples/issues"
+  },
+  "homepage": "https://github.com/McTano/typescript-row-type-examples#readme",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
